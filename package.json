@@ -1,0 +1,20 @@
+{
+  "name": "pg-project",
+  "version": "1.0.0",
+  "description": "Es una prueba de pg-native",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "pg",
+    "pg-native",
+    "postgresql",
+    "postgres"
+  ],
+  "author": "Carlos Vallejos <carlos@vamyal.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pg-native": "^1.10.0"
+  }
+}
